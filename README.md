@@ -1,7 +1,7 @@
 # CAREER PROFILE
 A postgraduate data science student with a unique background in medical imaging. Passionate about harnessing the power of data to benefit people and make data-driven solutions to impact the world positively.
 
-## EXPERIENCES
+## WORK EXPERIENCES
 
 ### Intern Radiographer
 **Feb 2023 - Dec 2023**  
