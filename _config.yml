@@ -1,18 +1,18 @@
 title: Maverick Nguyen
 logo: /assets/img/profile.jpg
 description: |
-  **Phone:** [+123-456-7890](tel:+1234567890)  
-  **Email:** [your.email@example.com](mailto:your.email@example.com)  
-  **LinkedIn:** [Maverick Nguyen](https://linkedin.com/in/maverick-nguyen)  
-  **GitHub:** [NguyenMav](https://github.com/NguyenMav)
+  <strong>Phone:</strong> <a href="tel:+1234567890">+123-456-7890</a><br>
+  <strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a><br>
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/maverick-nguyen">Maverick Nguyen</a><br>
+  <strong>GitHub:</strong> <a href="https://github.com/NguyenMav">NguyenMav</a><br><br>
 
-  **EDUCATION**  
-  **Master in Data Science**  
-  Deakin University  
-  January 2024 - December 2025  
+  <strong>EDUCATION</strong><br>
+  <strong>Master in Data Science</strong><br>
+  Deakin University<br>
+  January 2024 - December 2025<br><br>
 
-  **Bachelor of Medical Imaging**  
-  Deakin University  
+  <strong>Bachelor of Medical Imaging</strong><br>
+  Deakin University<br>
   March 2020 - December 2023
 show_downloads: false
 theme: jekyll-theme-minimal
