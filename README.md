@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 
@@ -10,7 +9,7 @@
   <h2>WORK EXPERIENCES</h2>
 
   <h3>Intern Radiographer</h3>
-  <p><strong>Feb 2023 - Dec 2023</strong><br>
+  <p><strong>Feb 2023 - Dec 2023</strong>
   <em>Vision Radiology | Melbourne Eastern Clinics </em></p>
   <ul>
     <li>Conducted 25+ X-rays, DEXA, and OPG scans daily, ensuring accuracy and patient safety.</li>
@@ -30,7 +29,7 @@
   </ul>
 
   <h3>Bakery Assistant</h3>
-  <p><strong>Dec 2017 - Feb 2023</strong><br>
+  <p><strong>Dec 2017 - Feb 2023</strong>
   <em>Eastfield Patisserie | Croydon South VIC 3136 </em></p>
   <ul>
     <li>Produced 200+ bakery goods daily, improving workflow efficiency by 20%.</li>
@@ -45,7 +44,7 @@
   </ul>
 
   <h3>Pharmacy Assistant</h3>
-  <p><strong>Jun 2017 - Sep 2017</strong><br>
+  <p><strong>Jun 2017 - Sep 2017</strong>
   <em>Eastfield Pharmacy | Croydon South VIC 3136 </em></p>
   <ul>
     <li>Adapted quickly to the pharmacy’s workflow, ensuring efficient operations.</li>
