@@ -79,28 +79,13 @@ A postgraduate data science student with a unique background in medical imaging.
 
 ## SKILLS
 
-<div style="display: flex; justify-content: space-between;">
-
-### Hard Skills
-- Programming Languages: Python, R, C# 
-- Database Management: MySQL, PostgreSQL
-- Data Analysis & Visualisation: Excel, PowerBI, Jupyter
-- Web Development: HTML, CSS, JavaScript, SQLite, Node.js, Bootstrap
-- Version Control: Github, Git
-- Cloud Technologies: Azure
-- Other Tools: Microsoft365, Visual Studio Code
-- Medical Imaging: X-ray, Mobile X-ray, Fluoroscopy, OPG, DEXA, CT
-
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-
-### Soft Skills
-- Communication
-- Collaboration 
-- Problem-Solving
-- Critical Thinking
-- Time Management
-- Presentation
-
-</div>
+| **Hard Skills**                           | **Soft Skills**        |
+|-------------------------------------------|------------------------|
+| - Programming Languages: Python, R, C#     | - Communication        |
+| - Database Management: MySQL, PostgreSQL   | - Collaboration        |
+| - Data Analysis & Visualisation: Excel, PowerBI, Jupyter | - Problem-Solving       |
+| - Web Development: HTML, CSS, JavaScript, SQLite, Node.js, Bootstrap | - Critical Thinking    |
+| - Version Control: Github, Git             | - Time Management      |
+| - Cloud Technologies: Azure                | - Presentation         |
+| - Other Tools: Microsoft365, Visual Studio Code | - Adaptability      |
+| - Medical Imaging: X-ray, Mobile X-ray, Fluoroscopy, OPG, DEXA, CT | - Empathy      |
