@@ -1,14 +1,6 @@
 # CAREER PROFILE
 A postgraduate data science student with a unique background in medical imaging. Passionate about harnessing the power of data to benefit people and make data-driven solutions to impact the world positively.
 
-## EDUCATION
-
-**Master in Data Science** <span style="float:right">**January 2024 - December 2025**</span>  
-*Deakin University | Faculty of Science, Engineering and Built Environment*
-
-**Bachelor of Medical Imaging** <span style="float:right">**March 2020 - December 2023**</span>  
-*Deakin University | School of Medicine*
-
 ## WORK EXPERIENCES
 
 **Intern Radiographer** <span style="float:right">**Feb 2023 - Dec 2023**</span>  
@@ -54,3 +46,33 @@ A postgraduate data science student with a unique background in medical imaging.
 - Conducted regular inventory checks to monitor stock levels and identify product shortages, contributing to effective inventory management.
 - Collaborated with team members to implement promotional displays and campaigns, contributing to increased sales and customer engagement.
 - Demonstrated professionalism and reliability, earning commendations from supervisors for dedication and performance.
+
+## PERSONAL PROJECTS
+
+**Fitness Website** <span style="float:right">**March 2024 - May 2024**</span>  
+[Github Repo Link | Project_WebDev_FitnessWebsite](https://github.com/NguyenMav/Project_WebDev_FitnessWebsite))  
+- Developed a responsive and dynamic fitness website using HTML, CSS, JavaScript, Node.js, Bootstrap, and SQLite.
+- Implemented text validation for all input fields across multiple pages including home, shopping, checkout, blog, about, and coaching pages.
+- Integrated shopping and checkout functionalities for product sales, ensuring a seamless user experience.
+
+**Space Defender 2-Player Game** <span style="float:right">**April 2024 - May 2024**</span>  
+[Github Repo Link | Project_CSharp_SpaceDefendersGame](https://github.com/NguyenMav/Project_CSharp_SpaceDefendersGame)) 
+
+- Developed a multiplayer game using C# and SplashKit, emphasizing object-oriented programming principles.
+- Implemented two-player controls (Left/Right and A/D) for character navigation and enemy evasion.
+- Features include dynamic health management with power-ups, varied enemy types, integrated music and sound effects, and intuitive game restart and exit functionality.
+
+**Vision Radiology Database** <span style="float:right">**April 2024 - May 2024**</span>  
+[Github Repo Link | Project_MySQL_SimpleRadiologyDatabase](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase)  
+
+- Designed and implemented a MySQL database for Vision Radiology, starting with an Entity-Relationship Diagram (ERD) and applying normalizations up to 3rd normal form.
+- Created tables with appropriate data types, primary and foreign keys, constraints, and populated records based on real-world radiology clinic scenarios.
+- Demonstrated proficiency in database querying using SQL commands such as SELECT, FROM, WHERE, JOINs, IN, DATE, VIEW, ORDER BY, and executed database maintenance operations like UPDATE and ALTER to modify table structures.
+
+## EDUCATION
+
+**Master in Data Science** <span style="float:right">**January 2024 - December 2025**</span>  
+*Deakin University | Faculty of Science, Engineering and Built Environment*
+
+**Bachelor of Medical Imaging** <span style="float:right">**March 2020 - December 2023**</span>  
+*Deakin University | School of Medicine*
