@@ -5,7 +5,6 @@ A postgraduate data science student with a unique background in medical imaging.
 
 **Intern Radiographer** <span style="float:right">**Feb 2023 - Dec 2023**</span>  
 *Vision Radiology | Melbourne Eastern Clinics*
-
 - Conducted 25+ X-rays, DEXA, and OPG scans daily, ensuring accuracy and patient safety.
 - Collaborated in multidisciplinary teams, assisting in 10+ CT/MRI scans daily.
 - Ensured quality patient care, contributing to a 95% satisfaction rate.
@@ -23,7 +22,6 @@ A postgraduate data science student with a unique background in medical imaging.
 
 **Bakery Assistant** <span style="float:right">**Dec 2017 - Feb 2023**</span>  
 *Eastfield Patisserie | Croydon South VIC 3136*
-
 - Produced 200+ bakery goods daily, improving workflow efficiency by 20%.
 - Provided customer service to 20+ customers daily, handling inquiries, processing orders, and offering recommendations.
 - Managed 5 daily phone orders and performed pick-packing duties efficiently.
@@ -36,7 +34,6 @@ A postgraduate data science student with a unique background in medical imaging.
 
 **Pharmacy Assistant** <span style="float:right">**Jun 2017 - Sep 2017**</span>  
 *Eastfield Pharmacy | Croydon South VIC 3136*
-
 - Adapted quickly to the pharmacy’s workflow, ensuring efficient operations.
 - Followed supervisors’ instructions meticulously to complete tasks accurately and on time.
 - Utilized POS software proficiently to process customers’ purchases and transactions.
@@ -50,21 +47,19 @@ A postgraduate data science student with a unique background in medical imaging.
 ## PERSONAL PROJECTS
 
 **Fitness Website** <span style="float:right">**March 2024 - May 2024**</span>  
-[Github Repo Link | Project_WebDev_FitnessWebsite](https://github.com/NguyenMav/Project_WebDev_FitnessWebsite))  
+[Github Repo Link | Project_WebDev_FitnessWebsite](https://github.com/NguyenMav/Project_WebDev_FitnessWebsite)) 
 - Developed a responsive and dynamic fitness website using HTML, CSS, JavaScript, Node.js, Bootstrap, and SQLite.
 - Implemented text validation for all input fields across multiple pages including home, shopping, checkout, blog, about, and coaching pages.
 - Integrated shopping and checkout functionalities for product sales, ensuring a seamless user experience.
 
 **Space Defender 2-Player Game** <span style="float:right">**April 2024 - May 2024**</span>  
 [Github Repo Link | Project_CSharp_SpaceDefendersGame](https://github.com/NguyenMav/Project_CSharp_SpaceDefendersGame)) 
-
 - Developed a multiplayer game using C# and SplashKit, emphasizing object-oriented programming principles.
 - Implemented two-player controls (Left/Right and A/D) for character navigation and enemy evasion.
 - Features include dynamic health management with power-ups, varied enemy types, integrated music and sound effects, and intuitive game restart and exit functionality.
 
 **Vision Radiology Database** <span style="float:right">**April 2024 - May 2024**</span>  
 [Github Repo Link | Project_MySQL_SimpleRadiologyDatabase](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase)  
-
 - Designed and implemented a MySQL database for Vision Radiology, starting with an Entity-Relationship Diagram (ERD) and applying normalizations up to 3rd normal form.
 - Created tables with appropriate data types, primary and foreign keys, constraints, and populated records based on real-world radiology clinic scenarios.
 - Demonstrated proficiency in database querying using SQL commands such as SELECT, FROM, WHERE, JOINs, IN, DATE, VIEW, ORDER BY, and executed database maintenance operations like UPDATE and ALTER to modify table structures.
@@ -76,3 +71,23 @@ A postgraduate data science student with a unique background in medical imaging.
 
 **Bachelor of Medical Imaging** <span style="float:right">**March 2020 - December 2023**</span>  
 *Deakin University | School of Medicine*
+
+## SKILLS
+
+### Hard Skills
+- Programming Languages: Python, R, C# 
+- Database Management: MySQL, PostgreSQL
+- Data Analysis & Visualisation: Excel, PowerBI, Jupyter
+- Web Development: HTML, CSS, JavaScript, SQLite, Node.js, Bootstrap
+- Version Control: Github, Git
+- Cloud Technologies: Azure
+- Other Tools: Microsoft365, Visual Studio Code
+- Medical Imaging: X-ray, Mobile X-ray, Fluoroscopy, OPG, DEXA, CT
+
+### Soft Skills
+- Communication
+- Collaboration 
+- Problem-Solving
+- Critical Thinking
+- Time Management
+- Presentation
