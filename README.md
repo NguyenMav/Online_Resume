@@ -1,6 +1,14 @@
 # CAREER PROFILE
 A postgraduate data science student with a unique background in medical imaging. Passionate about harnessing the power of data to benefit people and make data-driven solutions to impact the world positively.
 
+## EDUCATION
+
+**Master in Data Science** <span style="float:right">**January 2024 - December 2025**</span>  
+*Deakin University | Faculty of Science, Engineering and Built Environment*
+
+**Bachelor of Medical Imaging** <span style="float:right">**March 2020 - December 2023**</span>  
+*Deakin University | School of Medicine*
+
 ## WORK EXPERIENCES
 
 **Intern Radiographer** <span style="float:right">**Feb 2023 - Dec 2023**</span>  
