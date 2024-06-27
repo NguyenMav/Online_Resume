@@ -75,7 +75,7 @@ A postgraduate data science student with a unique background in medical imaging.
 ## CERTIFICATION
 
 **SQL Associate Certification**  <span style="float:right">**June 2024**</span>  
-*DataCamp | [Certificate Link](https://example.com)*  
+*DataCamp | [Certificate Link](https://www.datacamp.com/certificate/SQA0013393577657)*  
 
 ## SKILLS
 
