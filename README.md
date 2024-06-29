@@ -67,7 +67,7 @@ A postgraduate data science student with a unique background in medical imaging.
 ## EDUCATION
 
 **Master in Data Science** <span style="float:right">**Dec 2025**</span>  
-*Deakin University | Faculty of Science, Engineering and Built Environment*
+*Deakin University | Faculty of SEBE*
 
 **Bachelor of Medical Imaging** <span style="float:right">**Dec 2023**</span>  
 *Deakin University | School of Medicine*
