@@ -46,19 +46,19 @@ A postgraduate data science student with a unique background in medical imaging.
 
 ## PERSONAL PROJECTS
 
-**Fitness Website** <span style="float:right">**June 2024**</span>  
+**Fitness Website** <span style="float:right">**Apr 2024 - Jun 2024**</span>  
 [Github Repo Link](https://github.com/NguyenMav/Project_WebDev_FitnessWebsite)
 - Developed a responsive and dynamic fitness website using HTML, CSS, JavaScript, Node.js, Bootstrap, and SQLite.
 - Implemented text validation for all input fields across multiple pages including home, shopping, checkout, blog, about, and coaching pages.
 - Integrated shopping and checkout functionalities for product sales, ensuring a seamless user experience.
 
-**Space Defender 2-Player Game** <span style="float:right">**May 2024**</span>  
+**Space Defender 2-Player Game** <span style="float:right">**Apr 2024 - May 2024**</span>  
 [Github Repo Link](https://github.com/NguyenMav/Project_CSharp_SpaceDefendersGame)
 - Developed a multiplayer game using C# and SplashKit, emphasizing object-oriented programming principles.
 - Implemented two-player controls (Left/Right and A/D) for character navigation and enemy evasion.
 - Features include dynamic health management with power-ups, varied enemy types, integrated music and sound effects, and intuitive game restart and exit functionality.
 
-**Vision Radiology Database** <span style="float:right">**May 2024**</span>  
+**Vision Radiology Database** <span style="float:right">**Apr 2024 - May 2024**</span>  
 [Github Repo Link](https://github.com/NguyenMav/Project_MySQL_SimpleRadiologyDatabase)  
 - Designed and implemented a MySQL database for Vision Radiology, starting with an Entity-Relationship Diagram (ERD) and applying normalizations up to 3rd normal form.
 - Created tables with appropriate data types, primary and foreign keys, constraints, and populated records based on real-world radiology clinic scenarios.
@@ -66,15 +66,15 @@ A postgraduate data science student with a unique background in medical imaging.
 
 ## EDUCATION
 
-**Master in Data Science** <span style="float:right">**December 2025**</span>  
+**Master in Data Science** <span style="float:right">**Dec 2025**</span>  
 *Deakin University | Faculty of Science, Engineering and Built Environment*
 
-**Bachelor of Medical Imaging** <span style="float:right">**December 2023**</span>  
+**Bachelor of Medical Imaging** <span style="float:right">**Dec 2023**</span>  
 *Deakin University | School of Medicine*
 
 ## CERTIFICATION
 
-**SQL Associate Certification**  <span style="float:right">**June 2024**</span>  
+**SQL Associate Certification**  <span style="float:right">**Jun 2024**</span>  
 *DataCamp | [Certificate Link](https://www.datacamp.com/certificate/SQA0013393577657)*  
 
 ## SKILLS
